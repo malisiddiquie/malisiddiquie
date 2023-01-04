@@ -1,4 +1,2 @@
-nfile.js
-first.txt
-
-my.docx
+/mylogs.log
+*.log
